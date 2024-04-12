@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/yegor256/object-models-SLR/blob/master/LICENSE.txt)
+
 This is the data we collected while doing Systematic Literature Review (SLR)
 of object models.
 
